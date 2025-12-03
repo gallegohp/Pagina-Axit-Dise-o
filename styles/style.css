@@ -1,0 +1,84 @@
+
+ 
+ body {
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+/*///////////////////// */
+/*        HEADER        */
+/*///////////////////// */
+
+ header {
+    background-image: url(/assets/images/banner-bk.jpg);
+    padding: 5% 10%;
+    color: rgb(255, 255, 255);
+ }
+
+ .contenedorLogoHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+ }
+
+ .logoHeader {
+    padding-bottom: 4%;
+    width: 8%;
+ }
+
+ a {
+    color: rgb(197, 197, 197);
+    font-weight: 100;
+ }
+
+ .contenidoHeader {
+    width: 70%;
+ }
+
+ h1 {
+    font-size: 60px;
+    margin: 0;
+ }
+
+ .parrafoHeader {
+    margin: 5% auto;
+ }
+
+ .botonHeader {
+    background-color: aquamarine;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 40px;
+ }
+
+/*///////////////////// */
+/*     CONTENEDOR 1     */
+/*///////////////////// */
+
+.contenedor1 {
+    padding: 7%;
+}
+
+.contenedorPequeños1 {
+    display: flex;
+}
+
+.contenedoresPequeños1 {
+    text-align: center;
+    justify-content: center;
+}
+
+.smartImagenes {
+    
+}
+
+h2 {
+    font-size: 40px;
+    margin: 0;
+    text-align: center;
+}
+
+/*///////////////////// */
+/*     CONTENEDOR 2     */
+/*///////////////////// */
